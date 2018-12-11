@@ -1,0 +1,9 @@
+name: MYOA
+main: me.captain.adv.MYOA
+author: captainawesome7
+softdepend: [CaptainChat,PermissionsEx]
+version: 0.7
+commands:
+  adv:
+    Description: MYOA stuff
+    Usage: /myoa <stuff>
