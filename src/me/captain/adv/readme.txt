@@ -1,6 +1,6 @@
 MYOA 0.7
 
-Requirements: CaptainChat
+Requirements: CaptainChat, Sentinel, Citizens
 
 Configuration: /plugins/MYOA/config.yml
     - Insert paths to info files here with the following format:
